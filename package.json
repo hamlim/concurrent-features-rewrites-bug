@@ -1,0 +1,19 @@
+{
+  "name": "concurrent-features-rewrites-bug",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12.0.5-canary.13",
+    "react": "^18.0.0-beta-a65ceef37-20211130",
+    "react-dom": "^18.0.0-beta-a65ceef37-20211130"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.4"
+  }
+}
