@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.32",
+    "next": "^14.2.35",
     "react": "^18.0.0-beta-a65ceef37-20211130",
     "react-dom": "^18.0.0-beta-a65ceef37-20211130"
   },
